@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res"/>
+    <qresource prefix="/img">
+        <file>resourse.qrc</file>
+        <file>images/archive.png</file>
+        <file>images/book.png</file>
+        <file>images/delete.png</file>
+        <file>images/exit.png</file>
+        <file>images/folder.png</file>
+        <file>images/info.png</file>
+        <file>images/search.png</file>
+        <file>images/winRAR.png</file>
+    </qresource>
+</RCC>
